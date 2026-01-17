@@ -1,0 +1,7 @@
+{
+  "name": " novo github",
+  "description": "Imatec",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
